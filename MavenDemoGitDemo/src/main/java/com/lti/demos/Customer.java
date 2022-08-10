@@ -1,4 +1,5 @@
-com.lti.demos
+package com.lti.demos;
+
 class Customer{
 int cusId;
 }
